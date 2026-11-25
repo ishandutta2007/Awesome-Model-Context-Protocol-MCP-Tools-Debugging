@@ -58,9 +58,9 @@ The table below catalogs premier SaaS platforms and hosted tool registries for M
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects, official protocol implementations, inspectors, build frameworks, and community catalogs—ranked in descending order by GitHub Stars:
+Curated open-source projects, official protocol implementations, inspectors, build frameworks, and community catalogs—ranked in descending order by GitHub_Stars:
 
-| Project | Stars | Language | Description |
+| Project | GitHub_Stars | Language | Description |
 | :--- | :--- | :--- | :--- |
 | **[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** | [![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social&color=white)](https://github.com/punkpeye/awesome-mcp-servers/stargazers) | Markdown | The premier community curated catalog of MCP servers—covering file systems, browsers, databases, web scraping, and SaaS APIs. |
 | **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** | [![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social&color=white)](https://github.com/modelcontextprotocol/servers/stargazers) | TypeScript | Official Model Context Protocol reference servers—providing reference implementations for filesystem, git, memory, fetch, and postgres. |
